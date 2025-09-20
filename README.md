@@ -6,7 +6,7 @@ This is [libjpeg](https://ijg.org/) packaged for zig.
 First, update your `build.zig.zon`:
 
 ```
-zig fetch --save https://github.com/todo
+zig fetch --save https://github.com/timsurber/libjpeg/archive/refs/heads/main.zip
 ```
 
 Next, add this snippet to your `build.zig` script:
